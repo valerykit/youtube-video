@@ -1,0 +1,54 @@
+body {
+    background-image: url(images/bg.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+h2 {
+    color: white;
+    letter-spacing: 10px;
+    word-spacing: 5px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.button {
+    margin-bottom: 20px;
+    display: block;
+}
+
+button {
+    margin-top: 20px;
+    display: block;
+    position: static;
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.col-lg-4 {
+    height: auto;
+    overflow: hidden;
+}
+
+iframe {
+    height: 300px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+}
